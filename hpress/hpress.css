@@ -1,0 +1,28 @@
+.accent-fg{
+    color: #ff5722;
+}
+.accent-bg{
+    background-color: #ff5722;
+}
+.nodeco{
+    text-decoration: none;
+}
+.container{
+    padding: 1em;
+    border: 1px solid rgba(128, 128, 128, 0.25);
+}
+.side ul{
+    list-style-type: none;
+}
+.header{
+    height: 10em;
+    padding: 1em;
+}
+.header-parent h1 a{
+    color: white;
+    text-decoration: none;
+}
+.post h2 a{
+    text-decoration: none;
+    font-size: x-large;
+}
